@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+backup_original/
+upi-fraud-intelligence-main/
+.Rhistory
+*.log
+
+# Data raw
+data/raw/*.csv

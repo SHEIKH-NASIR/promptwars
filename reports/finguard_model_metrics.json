@@ -1,0 +1,19 @@
+{
+  "roc_auc": 0.9995,
+  "precision": 0.98,
+  "recall": 0.98,
+  "f1_score": 0.98,
+  "feature_importance": {
+    "amount": 0.6557050347328186,
+    "is_cross_city": 0.21592631936073303,
+    "velocity_sender_5m": 0.03594357892870903,
+    "time_since_last_sender_txn": 0.027088278904557228,
+    "merchant_category_enc": 0.026350993663072586,
+    "transaction_type_enc": 0.016280386596918106,
+    "is_weekend": 0.009728963486850262,
+    "hour_of_day": 0.008398589678108692,
+    "is_high_value": 0.00457790307700634,
+    "is_night": 0.0,
+    "amount_ratio": 0.0
+  }
+}

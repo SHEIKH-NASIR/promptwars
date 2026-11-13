@@ -1,0 +1,21 @@
+# FinGuard AI — Core Dependencies
+streamlit>=1.32.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning & AI
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+imbalanced-learn>=0.12.0
+joblib>=1.3.0
+shap>=0.44.0
+
+# Data Visualization & Graph Topology
+plotly>=5.18.0
+networkx>=3.0
+matplotlib>=3.7.0
+
+# Synthetic Data & Utilities
+Faker>=20.0.0
+python-dateutil>=2.8.0
+Pillow>=10.0.0
